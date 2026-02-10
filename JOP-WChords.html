@@ -2,16 +2,24 @@
 <html>
 <head>
     <title>JOP Chords picker</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="JOP-WChords.css">
 </head>
     <body>
-        <h1>JOP TEAM chords picker</h1>
-        <div>
-            <input type="text" placeholder="Enter a song" onkeyup="searchSong()">
+        <div class="titleHeader">
+            <h1 class="teamHeader">JOP TEAM chords picker</h1>
         </div>
-        <div class="songList"></div>
-        <div>
-            <h2>Select a song</h2>
+        <div class="contentInside">
+            <div>
+                <input class="inputSong" type="text" placeholder="Type a song" onkeyup="searchSong()">
+            </div>
+            <div class="listofSongs">
+                <div class="songList">Ocean</div>
+                <div class="songList">To my knees</div>
+            </div>
+            <div class="songDetails">
+                <h2>Select a song</h2>
+            </div>
         </div>
     </body>
     <script src="JOP-WChords.JS"></script>
