@@ -24,9 +24,10 @@ function showSong(id){
 
     document.querySelector('.songList').innerHTML = 
     `
-    <h2>${findId.title}</h2>
-    <p>Key: ${findId.keyOf}</p>
-    <pre>${findId.songAndChords}</pre>
+    <h2 class="songTitle">${findId.title}</h2>
+    <p class="titleBottom">Title</p>
+    <p class="keyOfSong">Key: ${findId.keyOf}</p>
+    <pre class="songAndchords">${findId.songAndChords}</pre>
     `;
     document.querySelector('.inputSong').value = '';
 }

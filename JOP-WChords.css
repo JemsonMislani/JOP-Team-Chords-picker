@@ -34,22 +34,56 @@ body {
     box-shadow: 0 2px 10px 5px rgb(201, 201, 201);
     border: none;
     border-radius: 5px;
+    margin: 10px;
 }
 
-.listofSongs{
+.listofSongs div{
     display: flex;
     flex-direction: column;
     gap: 5px;
     align-items: center;
     justify-content: center;
     text-align: center;
-    margin: 20px;
 }
-.songList{
+.songList div{
     display: grid;
     background-color: lightgray;
     width: 500px;
     cursor: pointer;
     font-size: 20px;
     border-radius: 5px;
+}
+
+.songList div:hover{
+    background-color: rgb(196, 196, 196);
+}
+
+.songList div:active {
+    background-color: lightgray;
+}
+
+.songAndchords {
+    font-size: 20px;
+}
+
+.songTitle {
+    margin: 0;
+}
+
+.titleBottom {
+    margin-top: 0;
+}
+
+.keyOfSong {
+    margin: 0;
+}
+
+.songAndchords {
+    background-color: lightgray;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 80%;
+    height: 100%;
+    border-radius: 10px;
 }
