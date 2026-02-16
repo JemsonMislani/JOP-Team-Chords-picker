@@ -291,6 +291,153 @@ Habangbuhay pag-ibig ko say’oy iaalay
 (Repeat)
 `
 },
+{
+    id: 4,
+    title: 'Lord I offer my Life.',
+    keyOf: 'E',
+    songAndChords:
+    `
+[Verse 1]
+ 
+E               F#m
+All that I am, all that I have,
+B                      A        E
+I lay them down before You, O Lord.
+C#m             A
+All my regrets, all my acclaim,
+F#m             E      A              F#m  B
+The joy and the pain, I'm making them Yours.
+ 
+[Verse 2]
+ 
+E                   F#m
+Things in the past, things yet unseen,
+B                          A           E
+Wishes and dreams that are yet to come true.
+C#m              A
+All of my hopes, all of my plans,
+F#m             E         A         F#m  B
+My heart and my hands are lifted to you.
+ 
+ 
+[Chorus]
+ 
+ E                 C#m
+Lord, I offer my life to You.
+           F#m              E      A               B
+Everything I've been through, use it for Your Glory.
+ E               C#m
+Lord, I offer my days to You,
+             F#m       E    A            G#m    C#m
+Lifting my praise to You, as a pleasing sacrifice
+ F#m        A   B      E
+Lord, I offer You my life.
+ 
+ 
+[Verse 1]
+ 
+E               F#m
+All that I am, all that I have,
+B                      A        E
+I lay them down before You, O Lord.
+C#m             A
+All my regrets, all my acclaim,
+F#m             E      A              F#m  B
+The joy and the pain, I'm making them Yours.
+ 
+ 
+[Verse 2]
+ 
+E                   F#m
+Things in the past, things yet unseen,
+B                           A           E
+Wishes and dreams that are yet to come true,
+C#m               A
+All of my hopes, all of my plans,
+F#m             E          A        F#m  B
+My heart and my hands are lifted to You.
+ 
+ 
+[Chorus]
+ 
+ E                 C#m
+Lord, I offer my life to You.
+           F#m              E      A               B
+Everything I've been through, use it for Your Glory.
+ E               C#m
+Lord, I offer my days to You,
+             F#m       E    A            G#m    C#m
+Lifting my praise to You, as a pleasing sacrifice
+ F#m        A   B      E
+Lord, I offer You my-
+ 
+ 
+[End]
+ 
+ E                 C#m
+Lord, I offer my life to You.
+           F#m              E      A               B
+Everything I've been through, use it for Your Glory.
+ E               C#m
+Lord, I offer my days to You,
+             F#m       E    A            G#m    C#m
+Lifting my praise to You, as a pleasing sacrifice
+ F#m     A    B      E
+Lord, I offer You my life
+ 
+ F#m     A    B      E
+Lord, I offer You my life
+    `
+},
+{
+    id: 5,
+    title: 'May galak, may saya, may tuwa',
+    keyOf: 'D',
+    songAndChords:
+`
+     D          G      F#m
+May galak, may saya, may tuwa
+                  G
+Sa piling ng Diyos
+          D         G          Em           A
+Sapagkat hirap ng puso ay naglalaho
+         D           G          F#m
+May awit, may sayaw, at papuri
+           G
+Para sa Diyos
+        D               G        Em              A  - A break
+Na hatid ng pusong pinagpala Niyang lubos
+ 
+ 
+[Chorus]
+ 
+           G        A
+Handog N'ya ay kapayapaan
+           F#m      Bm
+Handog N'ya ay kagalakan
+           Em       A
+Handog N'ya ay kalakasan
+               D             D7
+Sa bawat pusong napapagal
+               G         A
+Kaya't ang awit ng papuri
+       F#m         Bm
+Awit ng pasasalamat
+       Em          A - A break
+At ang awit ng pagsamba
+                      (D)
+Ay para lang sa Kanya
+
+  end...
+
+Bb       C          D
+   Ay para lang sa Kanya
+Bb       C          D
+   Ay para lang sa Kanya
+Bb       C          D
+   Ay para lang sa Kanya 
+`
+}
 ];
 
 localStorage.setItem('lists', JSON.stringify(churchSongs));
