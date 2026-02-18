@@ -540,6 +540,133 @@ Yes, I will worship Your holy name.
            C             D     G
 Lord, I'll worship Your holy name.
 `
+},
+{
+    id: 7,
+    title: 'Shout to the Lord',
+    keyOf: 'G',
+    songAndChords:
+`
+[Verse]
+ 
+G         D           Em            D         C
+ My Jesus, My Savior, Lord there is none like you
+           G                Em                        F   F6 C
+All of my days, I want to praise, the wonders of your mighty love
+G           D            Em        D            C
+ My comfort, My shelter, tower of refuge and strength
+            G                Em                 F  C/E  Dsus4 D
+Let every breath, all that I am, never cease to worship you
+ 
+ 
+[Chorus]
+ 
+G             Em           C           D
+Shout to the Lord all the earth let us sing
+G         Em       C             D
+Power and majesty praise to the king
+Em                          C                    D     C/D     D
+Mountains bow down and the seas will roar at the sound of your name
+G           Em        C             D
+I sing for joy at the work of your hands
+G             Em         C           D
+Forever I'll love you forever I'll stand
+Em                        C                G
+Nothing compares to the promise I have in You
+`
+},
+{
+    id: 8,
+    title: 'Give thanks',
+    keyOf: 'D',
+    songAndChords:
+`
+
+[Intro]
+D F#m A Bm G
+ 
+ 
+[Verse]
+D           A
+Give thanks with a grateful heart
+Bm          D  F#m      A
+Give thanks to the Holy One
+G           D                  C             A
+Give thanks because He's given Jesus Christ, His Son
+ 
+ 
+[Chorus]
+F#m     A       Bm   Em   D  Em
+And now let the weak say, "I am strong"
+Em           A     D A   D
+Let the poor say, "I am rich
+F#m        Bm   A   Bm       C        D   A
+Because of what the Lord has done for us" [x2]
+D
+Give thanks
+ 
+ 
+[Verse]
+D           A
+Give thanks with a grateful heart
+Bm          D  F#m      A
+Give thanks to the Holy One
+G           D                  C             A
+Give thanks because He's given Jesus Christ, His Son
+ 
+ 
+[Chorus]
+F#m     A       D    A         D  Em
+And now let the weak say, "I am strong"
+A            D     A   D
+Let the poor say, "I am rich
+F#m        Bm   C            D    A
+Because of what the Lord has done for us" [x2]
+D
+Give thanks
+`
+},
+{
+    id: 9,
+    title: 'Masiglang umawit',
+    keyOf: 'D',
+    songAndChords:
+`
+[Intro]
+D  Bm  Em  A
+F#m Bm C A
+ 
+[Verse]
+      D      Bm     Em          A
+Masiglang umawit sa saliw ng tugtugan
+ 
+    D        Bm        Em         A
+Umindak, sumayaw, at tayo’y maglundagan
+ 
+   D        Bm         Em       A
+Siya’y sambahin nang buong kalakasan
+ 
+ D       Bm          Em         A
+Ating isigaw ang Kanyang kabutihan
+ 
+ 
+[Chorus]
+ 
+G           F#m
+Sa lahat ng oras
+ 
+G          F#m
+Siya’y maasahan
+ 
+G            F#m  Bm    C          A
+Ang pag-ibig Niya ay laging nananahan
+ 
+G         F#m     G             F#m
+Mga puso natin ay pinupuno ng kaligayahan
+ 
+G            F#m    Bm         C          A
+Kaya’t dapat ipagdiwang ang Kanyang kabutihan
+`
 }
 ];
 
